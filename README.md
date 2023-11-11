@@ -1,12 +1,13 @@
 # StarConApp_Public
-## Intro
+This is a public repo I created to give you the release of the app as Nexus is taking to much time when it comes to verifiying binary executables on their platforms.
+
+## INTRO
 We all know the overwhelming size of this absolute gargantuan space sim that is Starfield. This mod simply allows you to keep track for your progress when exploring thousands of planets. It has a detailed data on all planets, moons and asteroid.
 
 ## DETAILS
 You can select the planet, moon or asteroid and get the details. I scraped as much as I can from what I could find online (shout out to reddit user substantial-dig-9976 who compiled the json format for the resources file and put it on pastebin) and to all the Starborn who made this possible, thanks.
 
 ## What can you do in this app?
-
 Check the properties of the celestial object (Type, Gravity, Temperature, Life and Resources) with Icons that you can modify and change if you want.
 It keeps track of your logs and gives you a progress bar with percentage and ranking system.
 Allows you to upload your own screenshots when you visit planets. (Supports PNG only for the time being)
@@ -14,7 +15,6 @@ Allows you to save logs per celestial body (Main reason for this apps existence 
 
 
 ## INSTALLATION
-
 Extract it to any location you fancy (I wouldn't recommend program files folder)
 And open StarConApp.exe
 Done
