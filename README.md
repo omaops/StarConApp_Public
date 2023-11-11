@@ -7,18 +7,18 @@ You can select the planet, moon or asteroid and get the details. I scraped as mu
 
 ## What can you do in this app?
 
-    Check the properties of the celestial object (Type, Gravity, Temperature, Life and Resources) with Icons that you can modify and change if you want.
-    It keeps track of your logs and gives you a progress bar with percentage and ranking system.
-    Allows you to upload your own screenshots when you visit planets. (Supports PNG only for the time being)
-    Allows you to save logs per celestial body (Main reason for this apps existence really)
+Check the properties of the celestial object (Type, Gravity, Temperature, Life and Resources) with Icons that you can modify and change if you want.
+It keeps track of your logs and gives you a progress bar with percentage and ranking system.
+Allows you to upload your own screenshots when you visit planets. (Supports PNG only for the time being)
+Allows you to save logs per celestial body (Main reason for this apps existence really)
 
 
 ## INSTALLATION
 
-    Extract it to any location you fancy (I wouldn't recommend program files folder)
-    And open StarConApp.exe
-    Done
-    Note that your progress and rank are all saved in the location you extracted it in so it is portable but don't delete files in the cap, celestials, data, img, logs and rank folder. It can break the app. Just saying.
+Extract it to any location you fancy (I wouldn't recommend program files folder)
+And open StarConApp.exe
+Done
+!!Note that your progress and rank are all saved in the location you extracted it in so it is portable but don't delete files in the cap, celestials, data, img, logs and rank folder. It can break the app. Just saying.
 
 
 ## UPDATES
