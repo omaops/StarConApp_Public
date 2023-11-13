@@ -7,7 +7,7 @@ We all know the overwhelming size of this absolute gargantuan space sim that is 
 ## DETAILS
 You can select the planet, moon or asteroid and get the details. I scraped as much as I can from what I could find online (shout out to reddit user substantial-dig-9976 who compiled the json format for the resources file and put it on pastebin) and to all the Starborn who made this possible, thanks.
 
-## What can you do in this app?
+## WHAT CAN YOU DO WITH THIS APP?
 Check the properties of the celestial object (Type, Gravity, Temperature, Life and Resources) with Icons that you can modify and change if you want.
 It keeps track of your logs and gives you a progress bar with percentage and ranking system.
 Allows you to upload your own screenshots when you visit planets. (Supports PNG only for the time being)
