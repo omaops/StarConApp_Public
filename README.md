@@ -1,5 +1,5 @@
 # StarConApp_Public
-Starfield progress tracking app. This is a public repo I created to give you the release of the app as Nexus is taking to much time when it comes to verifiying binary executables on their platforms.
+That is where I Starfield progress tracking app. Please check on Nexus mods first!!! This is a public repo I created to give you the release of the app when Nexus is taking to much time to verify and unlock the application. You will find all the updates there as well.
 
 ## INTRO
 We all know the overwhelming size of this absolute gargantuan space sim that is Starfield. This mod simply allows you to keep track for your progress when exploring thousands of planets. It has a detailed data on all planets, moons and asteroid.
